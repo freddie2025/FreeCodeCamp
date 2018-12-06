@@ -7,3 +7,9 @@ Repository of Free Code Camp projects
 #### Product Landing Page
 #### Technical Documentation Page
 #### Personal Portfolio Webpage
+
+## Javascript Algorithms And Data Structures Certification (300 hours)
+## Front End Libraries Certification (300 hours)
+## Data Visualization Certification (300 hours)
+## Apis And Microservices Certification (300 hours)
+## Information Security And Quality Assurance Certification (300 hours)
