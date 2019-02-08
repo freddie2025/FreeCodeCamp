@@ -1,15 +1,21 @@
 # FreeCodeCamp
 Repository of Free Code Camp projects
 
-## Responsive Web Design Certification (300 hours)
+## Responsive Web Design Certification
 #### Tribute Page
 #### Survey Form
 #### Product Landing Page
 #### Technical Documentation Page
 #### Personal Portfolio Webpage
 
-## Javascript Algorithms And Data Structures Certification (300 hours)
-## Front End Libraries Certification (300 hours)
-## Data Visualization Certification (300 hours)
-## Apis And Microservices Certification (300 hours)
-## Information Security And Quality Assurance Certification (300 hours)
+## Javascript Algorithms And Data Structures Certification
+#### Palindrome Checker
+#### Roman Numeral Converter
+#### Caesars Cipher
+#### Telephone Number Validator
+#### Cash Register
+
+## Front End Libraries Certification
+## Data Visualization Certification
+## Apis And Microservices Certification
+## Information Security And Quality Assurance Certification
