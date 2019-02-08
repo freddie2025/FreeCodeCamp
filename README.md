@@ -1,5 +1,5 @@
-# FreeCodeCamp
-Repository of Free Code Camp projects
+# freeCodeCamp
+Repository of freeCodeCamp projects
 
 ## Responsive Web Design Certification
 #### Tribute Page
