@@ -23,5 +23,5 @@ Repository of freeCodeCamp projects
 #### Pomodoro Clock
 
 ## Data Visualization Certification
-## Apis And Microservices Certification
-## Information Security And Quality Assurance Certification
+## Apis and Microservices Certification
+## Information Security and Quality Assurance Certification
