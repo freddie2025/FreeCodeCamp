@@ -8,7 +8,7 @@ Repository of freeCodeCamp projects
 #### Technical Documentation Page
 #### Personal Portfolio Webpage
 
-## Javascript Algorithms And Data Structures Certification
+## Javascript Algorithms and Data Structures Certification
 #### Palindrome Checker
 #### Roman Numeral Converter
 #### Caesars Cipher
@@ -16,6 +16,12 @@ Repository of freeCodeCamp projects
 #### Cash Register
 
 ## Front End Libraries Certification
+#### Random Quote Machine
+#### Markdown Previewer
+#### Drum Machine
+#### JavaScript Calculator
+#### Pomodoro Clock
+
 ## Data Visualization Certification
 ## Apis And Microservices Certification
 ## Information Security And Quality Assurance Certification
